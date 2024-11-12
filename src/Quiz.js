@@ -66,7 +66,7 @@ export default function Quiz() {
             setFinish(true)
             let correctAnswers = 0
             allQuestions.map((question, index) => {
-                if (!question.selection) { // edge case: did not select answers yet
+                if (question.selection === "") { // edge case: did not select answers yet
                     return
                 }
                 // Calculate score

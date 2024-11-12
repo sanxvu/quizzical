@@ -16,3 +16,7 @@ Quizzical is an interactive quiz app built with React that fetches trivia questi
 - **HTML** - For structuring the content within React components.
 - **CSS** - For styling components.
 - **JavaScript** - For handling API calls and managing quiz logic.
+
+![Screenshot 2024-11-11 at 11 39 53 PM](https://github.com/user-attachments/assets/9ff783a9-fea2-4366-ab51-8d190cafc396)
+![Screenshot 2024-11-11 at 11 42 09 PM](https://github.com/user-attachments/assets/22039737-66e1-4f07-b2fa-863b1b0daaff)
+![Screenshot 2024-11-11 at 11 42 19 PM](https://github.com/user-attachments/assets/dd3c5398-02fd-4d97-8a21-a9e30cbc4bbf)
